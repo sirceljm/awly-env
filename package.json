@@ -1,0 +1,19 @@
+{
+  "name": "@awly/env",
+  "version": "1.0.0",
+  "description": "Shortcut to lib/shared/env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirceljm/awly-env.git"
+  },
+  "author": "Matej Šircelj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirceljm/awly-env/issues"
+  },
+  "homepage": "https://github.com/sirceljm/awly-env#readme"
+}
